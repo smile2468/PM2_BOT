@@ -5,4 +5,5 @@
 ## PM2 Daemon Manage by discord bot
 
 ## Dependencies
-## [Discord.js](https://www.npmjs.com/package/discord.js)
+> [Discord.js](https://www.npmjs.com/package/discord.js)<br>
+> [pm2](https://www.npmjs.com/package/pm2)
