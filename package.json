@@ -1,0 +1,23 @@
+{
+  "name": "pm2_bot",
+  "version": "1.0.0",
+  "description": "PM2 Daemon manage by discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cotwo0139/PM2_BOT.git"
+  },
+  "author": "Sangoon_Is_Noob#0972",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cotwo0139/PM2_BOT/issues"
+  },
+  "homepage": "https://github.com/cotwo0139/PM2_BOT#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "pm2": "^3.5.1"
+  }
+}

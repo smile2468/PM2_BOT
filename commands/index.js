@@ -1,8 +1,6 @@
 module.exports = {
-    'pm2': {
-        'execute': require('./pm2.js')
-    },
-    'dashboard': {
-        'execute': require('./dashboard');
+    'list': {
+        'execute': require('../commands/list.js'),
+        'aliases': ["ㅣㅑㄴㅅ"]
     }
 }
