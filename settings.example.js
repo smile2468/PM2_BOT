@@ -1,8 +1,8 @@
 const settings = {
-    bot: {
-        token: 'XXXXXX.XXXX',
-        prefix: 'pm2!'
-    }
-};
+  bot: {
+    token: 'XXXXXX.XXXX',
+    prefix: 'pm2!'
+  }
+}
 
-module.exports = settings;
+module.exports = settings

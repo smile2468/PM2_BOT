@@ -1,3 +1,3 @@
 module.exports = {
-    chunkArray: require('./chunkArray.js')
+  chunkArray: require('./chunkArray.js')
 }
